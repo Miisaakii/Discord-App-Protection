@@ -14,4 +14,6 @@ You are now safe using Discord <3
 For update: Stable 88181 (22a0e04) Host 1.0.9002 Windows 10 64-Bit (10.0.19042)
 Made By Misakiii (06/21/2021)
 
+Discord server: https://discord.gg/qkYuFkcxPN
+
 ![alt text](https://i.imgur.com/8pm6KNy.png)
