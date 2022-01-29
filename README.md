@@ -14,11 +14,11 @@ I just edited it for remove the Local Storage and the file where contains your t
 You are now safe using Discord <3
 
 <br>
-For update: Stable 88181 (22a0e04) Host 1.0.9002 Windows 10 64-Bit (10.0.19042)
+For update: Stable 112515 (900f57b)
 <br>
-Made By Misakiii (06/21/2021)
+Made By Misakiii (1/29/2022)
 
 <br>
 Discord server: https://discord.gg/QEwfUGUjRd
 
-![alt text](https://i.imgur.com/8pm6KNy.png)
+![alt text](https://i.imgur.com/opwWSrW.png)
